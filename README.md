@@ -24,7 +24,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Developer tools
 
-- [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
+- [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
 
 ### Programming Languages
 
@@ -63,7 +63,7 @@ We have also created small modular workshops for each section of MS Learn. **The
 ### Checklist :white_check_mark:
 
 - [ ] Week 1 (15 APR - 21 APR)
-  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
+  - [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
   - [ ] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
   - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [ ] Week 2 (22 APR - 28 APR)
@@ -103,12 +103,12 @@ As you go through and do these modules, you'll find that you need quite a few to
 
 - [ ] Required Tools
   - [ ] [Node.JS](https://nodejs.org/en/)
-  - [ ] [Git](https://git-scm.com/)
+  - [x] [Git](https://git-scm.com/)
   - [ ] [Python](https://www.python.org/downloads/)
   - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
-  - [ ] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
+  - [x] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
   - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
     - [ ] [Free License](https://www.jetbrains.com/community/education/#students) for students
   - [ ] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
