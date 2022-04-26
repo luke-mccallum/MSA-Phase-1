@@ -28,7 +28,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Programming Languages
 
-- [ ] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
+- [x] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
 - [ ] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) is a programming language created by Microsoft and is used in a wide range of industry applications from front-end web applications to back-end APIs. Often combined with [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) which is an open source developer platform, created by Microsoft, for building many different types of applications.
 
 ### Web Development
@@ -69,7 +69,7 @@ We have also created small modular workshops for each section of MS Learn. **The
 - [x] Week 2 (22 APR - 28 APR)
   - [x] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
 - [ ] Week 3 (29 APR - 5 MAY)
-  - [ ] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
+  - [x] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
   - [ ] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] Week 4 (6 MAY - 12 MAY)
   - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
@@ -102,7 +102,7 @@ We have also created small modular workshops for each section of MS Learn. **The
 As you go through and do these modules, you'll find that you need quite a few tools to complete some of the workshops as well as the modules. To help facilitate this process of trying to get everything downloaded, we've compiled a list here:
 
 - [ ] Required Tools
-  - [ ] [Node.JS](https://nodejs.org/en/)
+  - [x] [Node.JS](https://nodejs.org/en/)
   - [x] [Git](https://git-scm.com/)
   - [x] [Python](https://www.python.org/downloads/)
   - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
