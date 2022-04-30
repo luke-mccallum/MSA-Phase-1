@@ -36,7 +36,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 - [x] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) are the backbone of any web-page. Knowing what these are and how they are structured is fundamental for doing any web development work.
 - [x] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
 - [x] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is an open-source language by Microsoft which builds upon the original syntax of JavaScript. It provides features such as static type definitions, classes and interfaces which makes it easier for developers to resolve issues, as your application becomes larger. **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL** - The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, go ahead and finish this learning path - we're not going to stop you :smile:
-- [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI. **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
+- [x] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI. **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
 
 ### APIs
 
@@ -91,7 +91,7 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [x] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
   - [ ] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)
 - [ ] Week 10 (17 JUN - 23 JUN)
-  - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
+  - [x] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
   - [ ] [9. React workshop](./9.%20React%20workshop/)
 - [ ] Spend the next 4 days relaxing - you're done!!!
 
